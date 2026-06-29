@@ -2,6 +2,8 @@
 
 A single-file, offline-capable web app for plotting depth-resolved proxy and laboratory data against a stratigraphic column. Built as a companion to the **Geoarchaeological Core Logger**, it turns measurement tables (grain size, loss-on-ignition, geochemistry, …) into publication-ready proxy diagrams, optionally aligned to the lithology of a logged core. It runs entirely in the browser with no server or installation required.
 
+https://piereleonfrederiks.github.io/ProxyPlotter/
+
 ⚠ Early Access — This project is under active development. Features, exports, and data formats may change between versions. If you use this tool, I'd love to hear what works, what doesn't, and what's missing.
 
 ---
